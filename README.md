@@ -850,6 +850,13 @@ Quantitative values should therefore be interpreted as **literature-reported or 
 <img width="949" height="564" alt="Dashboard 4" src="https://github.com/user-attachments/assets/f5fae0e0-3369-46bc-9313-5a6558f10b93" />
 
 
+### Demo Video
+
+
+
+
+
+
 # 🌍 Project Vision
 
 EcoMind AI aims to make environmental intelligence more:
@@ -872,9 +879,7 @@ The core idea is:
 
 Computer Science & Engineering (AI & ML)
 
-GitHub:
-
-**https://github.com/prajwal12smp-cpu/Eco-Mind-AI**
+GitHub: **https://github.com/prajwal12smp-cpu/Eco-Mind-AI**
 
 ---
 
