@@ -826,36 +826,29 @@ Quantitative values should therefore be interpreted as **literature-reported or 
 
 # 📸 Screenshots
 
+
 ### Diagnostic Chat
 
-```text
 <img width="947" height="564" alt="Dashboard" src="https://github.com/user-attachments/assets/590ff92c-8ed3-46e0-9bf4-dda0d3604597" />
 
-```
 
 ### Land Dashboard
 
-```text
 <img width="949" height="563" alt="Dashboard 1" src="https://github.com/user-attachments/assets/6c9605dd-d090-43e0-ae85-f98b1629a3c6" />
 
 <img width="950" height="563" alt="Dashboard 2" src="https://github.com/user-attachments/assets/d9960e1b-e814-415f-8d10-6de4b7e32ced" />
 
 
-```
-
 ### Multi-Metric Simulator
 
-```text
 <img width="959" height="565" alt="Dashboard 3" src="https://github.com/user-attachments/assets/72caa3c2-2d67-4936-8ec1-b6b102b2d9ae" />
 
-```
 
 ### Scientific RAG Explorer
 
-```text
 <img width="949" height="564" alt="Dashboard 4" src="https://github.com/user-attachments/assets/f5fae0e0-3369-46bc-9313-5a6558f10b93" />
 
-```
+
 # 🌍 Project Vision
 
 EcoMind AI aims to make environmental intelligence more:
