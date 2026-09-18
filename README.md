@@ -1,4 +1,3 @@
-````markdown
 # 🌱 EcoMind AI
 
 ### Evidence-Grounded Biodiversity Intelligence & Multi-Metric Environmental Reasoning
