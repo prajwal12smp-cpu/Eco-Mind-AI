@@ -887,7 +887,7 @@ Computer Science & Engineering (AI & ML)
 
 GitHub:
 
-**[https://github.com/prajwal12smp-cpu/Eco-Mind-AI]**
+**https://github.com/prajwal12smp-cpu/Eco-Mind-AI**
 
 ---
 
