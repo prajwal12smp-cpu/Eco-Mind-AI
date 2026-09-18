@@ -1,0 +1,6 @@
+{
+  "name": "EcoMind AI",
+  "description": "Evidence-Grounded AI for Biodiversity Intelligence - Darukaa.Earth AI Challenge",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

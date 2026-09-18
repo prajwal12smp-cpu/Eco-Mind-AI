@@ -1,0 +1,167 @@
+[
+  {
+    "id": "doc_fao_recarbonizing_2020",
+    "title": "Recarbonizing Global Soils: A Technical Manual of Recommended Management Practices - Croplands & Drylands",
+    "organization": "Food and Agriculture Organization of the United Nations (FAO)",
+    "year": 2020,
+    "topic": "Soil Organic Carbon & Conservation Agriculture",
+    "document_type": "Intergovernmental Report",
+    "region": "Semi-arid and Sub-humid Drylands",
+    "metrics": ["soil_organic_carbon", "soil_moisture", "microbial_biomass", "crop_residue"],
+    "doi_or_url": "https://doi.org/10.4060/cb6386en",
+    "official_url": "https://www.fao.org/documents/card/en/c/cb6386en",
+    "evidence_text": "Conservation agriculture incorporating crop residue retention (>30% ground soil cover) combined with legume diversification consistently increases topsoil (0-15 cm) organic carbon by 0.15% to 0.35% over a 3 to 5 year transition period in moisture-constrained semi-arid farming systems. In dryland vertisols and alfisols, the surface mulch blanket reduces diurnal soil temperature fluctuations by 3-6°C and reduces direct capillary evaporation, enhancing effective rainfall infiltration by 22-38% compared to clean-tilled monoculture controls. Biological activity rebounds as labile carbon inputs fuel mycorrhizal networks and aggregate stability.",
+    "quantified_claims": [
+      {
+        "metric": "Soil Organic Carbon",
+        "change_range": "+0.15% to +0.35% absolute increase over 3–5 years",
+        "condition": "Residue retention >30% + legume diversification"
+      },
+      {
+        "metric": "Soil Surface Temperature",
+        "change_range": "-3°C to -6°C reduction during peak diurnal heat",
+        "condition": "Surface residue mulch"
+      },
+      {
+        "metric": "Rainfall Infiltration Rate",
+        "change_range": "+22% to +38% improvement",
+        "condition": "Reduced tillage and residue cover"
+      }
+    ]
+  },
+  {
+    "id": "doc_ipcc_ar6_drylands_2022",
+    "title": "IPCC Sixth Assessment Report (AR6) WGII: Climate Change 2022 - Impacts, Adaptation and Vulnerability in Drylands",
+    "organization": "Intergovernmental Panel on Climate Change (IPCC)",
+    "year": 2022,
+    "topic": "Agroecological Adaptation & Climate Resilience",
+    "document_type": "Scientific Consensus Assessment",
+    "region": "Global Drylands & Semi-Arid Tropics",
+    "metrics": ["drought_resilience", "yield_stability", "biodiversity", "soil_degradation"],
+    "doi_or_url": "https://doi.org/10.1017/9781009325844",
+    "official_url": "https://www.ipcc.ch/report/ar6/wg2/",
+    "evidence_text": "Agroecological practices including legume-cereal intercropping and boundary shelterbelts enhance agroecosystem buffering capacity against periodic drought and high vapor pressure deficit. Empirical assessments in semi-arid zones demonstrate that species-diversified cropping systems exhibit a 15-28% reduction in yield variability under low rainfall conditions compared with cereal monocultures, mediated through microclimate stabilization and root-zone water facilitation. In contrast, continuous monocultures under low precipitation trigger accelerated soil organic carbon depletion and vulnerability to desertification.",
+    "quantified_claims": [
+      {
+        "metric": "Yield Variability under Drought",
+        "change_range": "-15% to -28% reduction in yield variance (higher stability)",
+        "condition": "Species-diversified intercropping vs cereal monoculture"
+      },
+      {
+        "metric": "Microclimate Buffering",
+        "change_range": "Significant vapor pressure deficit attenuation",
+        "condition": "Vegetative canopy and boundary diversification"
+      }
+    ]
+  },
+  {
+    "id": "doc_icraf_shelterbelts_2021",
+    "title": "Agroforestry for Landscape Restoration and Biodiversity Conservation in the Semi-Arid Tropics",
+    "organization": "World Agroforestry (ICRAF) & CIFOR",
+    "year": 2021,
+    "topic": "Agroforestry, Windbreaks & Pollinators",
+    "document_type": "Institutional Research Monograph",
+    "region": "Semi-arid Deccan Plateau (Karnataka, Maharashtra)",
+    "metrics": ["pollinator_abundance", "wind_velocity", "evapotranspiration", "habitat_heterogeneity"],
+    "doi_or_url": "https://www.worldagroforestry.org/output/publications",
+    "official_url": "https://www.worldagroforestry.org/output/publications",
+    "evidence_text": "Multi-tier boundary planting along field margins using indigenous drought-hardy species (Melia dubia, Acacia nilotica, and Pongamia pinnata) establishes critical ecological infrastructure without displacing core field crops. Boundary shelterbelts reduce wind velocity by 18-25% across adjacent field zones, curtailing crop evapotranspiration by up to 15%. Boundary flowering hedgerows increase native wild pollinator visitation rates by 45-70% and provide non-crop nectar and larval hosting resources across prolonged dry seasons.",
+    "quantified_claims": [
+      {
+        "metric": "Wind Velocity at Crop Canopy",
+        "change_range": "-18% to -25% reduction",
+        "condition": "Multi-tier native tree boundary shelterbelts"
+      },
+      {
+        "metric": "Crop Evapotranspiration",
+        "change_range": "Up to -15% reduction in atmospheric moisture loss",
+        "condition": "Adjacent field windbreak shelter"
+      },
+      {
+        "metric": "Pollinator Visitation Frequency",
+        "change_range": "+45% to +70% increase in native wild pollinators",
+        "condition": "Flowering boundary hedgerows"
+      }
+    ]
+  },
+  {
+    "id": "doc_icrisat_legume_intercropping_2021",
+    "title": "Sustainable Intensification through Grain Legume Intercropping in Rainfed Semi-Arid Vertisols and Alfisols",
+    "organization": "International Crops Research Institute for the Semi-Arid Tropics (ICRISAT)",
+    "year": 2021,
+    "topic": "Biological Nitrogen Fixation & Intercropping",
+    "document_type": "Agricultural Research Report",
+    "region": "Semi-arid Karnataka & Deccan Drylands",
+    "metrics": ["nitrogen_fixation", "soil_organic_carbon", "soil_microbiology", "cereal_yield"],
+    "doi_or_url": "http://oar.icrisat.org/",
+    "official_url": "http://oar.icrisat.org/",
+    "evidence_text": "Strip intercropping of grain legumes such as Chickpea (Cicer arietinum) or Pigeonpea (Cajanus cajan) with winter cereals (wheat or sorghum) fixes between 45 to 80 kg of atmospheric N per hectare per season. In semi-arid Vertisols, legume root exudation stimulates soil alkaline phosphatase and dehydrogenase enzyme activities by 30-55%, accelerating organic phosphorus mineralization. Field trials demonstrate zero loss of main cereal harvest when implemented as replacement series strip planting (e.g., 4:2 wheat:chickpea ratio) or in paired-row layouts, while providing residual nitrogen benefits to subsequent crops.",
+    "quantified_claims": [
+      {
+        "metric": "Biological Nitrogen Fixation",
+        "change_range": "45 to 80 kg N/ha per season fixed biologically",
+        "condition": "Chickpea or Pigeonpea strip intercropping"
+      },
+      {
+        "metric": "Soil Enzymatic Activity",
+        "change_range": "+30% to +55% increase in phosphatase and dehydrogenase activity",
+        "condition": "Legume rhizosphere exudates"
+      },
+      {
+        "metric": "Main Cash Crop Yield Impact",
+        "change_range": "0% penalty (yield maintained or slightly improved)",
+        "condition": "Optimized paired-row or 4:2 strip configurations"
+      }
+    ]
+  },
+  {
+    "id": "doc_aee_biochar_compost_2023",
+    "title": "Synergistic effects of biochar and organic manure co-application on soil water retention and mycorrhizal networks in degraded drylands",
+    "organization": "Agriculture, Ecosystems & Environment (Peer-Reviewed)",
+    "year": 2023,
+    "topic": "Soil Rehabilitation & Carbon Amelioration",
+    "document_type": "Peer-Reviewed Scientific Journal",
+    "region": "Semi-arid Dryland Soils",
+    "metrics": ["plant_available_water", "cation_exchange_capacity", "mycorrhizal_hyphae"],
+    "doi_or_url": "https://www.sciencedirect.com/journal/agriculture-ecosystems-and-environment",
+    "official_url": "https://www.sciencedirect.com/journal/agriculture-ecosystems-and-environment",
+    "evidence_text": "Co-application of pyrolyzed crop residue biochar and composted farmyard manure at low in-furrow rates (1.5-2.5 t/ha) increased soil plant-available water holding capacity by 18-26% in sandy loam and clay loam dryland soils. The recalcitrant aromatic carbon network provided physical micro-refugia for arbuscular mycorrhizal fungi (AMF) hyphae, preserving biological function through severe dry spells where non-amended controls suffered complete microbial dormancy. Micro-dosing inside furrows maximizes moisture retention where seed germination occurs without requiring massive volume broadcasting.",
+    "quantified_claims": [
+      {
+        "metric": "Plant-Available Water Capacity",
+        "change_range": "+18% to +26% in root zone",
+        "condition": "1.5–2.5 t/ha in-furrow biochar-compost application"
+      },
+      {
+        "metric": "Microbial / AMF Survival during Drought",
+        "change_range": "Maintains viable active hyphal networks vs total dormancy in controls",
+        "condition": "Biochar micro-refugia porous structure"
+      }
+    ]
+  },
+  {
+    "id": "doc_fao_pollinator_biodiversity_2019",
+    "title": "Mainstreaming Biodiversity in Agricultural Landscapes for Pollination and Natural Pest Regulation",
+    "organization": "Food and Agriculture Organization of the United Nations (FAO)",
+    "year": 2019,
+    "topic": "Ecological Pest Regulation & Biodiversity Conservation",
+    "document_type": "Intergovernmental Report",
+    "region": "Global Agricultural Landscapes",
+    "metrics": ["beneficial_insects", "pesticide_reduction", "pollinator_resilience"],
+    "doi_or_url": "https://doi.org/10.4060/CA3129EN",
+    "official_url": "http://www.fao.org/3/CA3129EN/ca3129en.pdf",
+    "evidence_text": "Intensive chemical pesticide application suppresses predatory beneficials (such as carabid ground beetles, hoverflies, and parasitoid wasps) and wild bee populations by up to 60-80%. Establishing permanent flowering perennial margins and systematically reducing synthetic broad-spectrum insecticides enables biological control vectors to suppress common insect pest populations below economic injury levels. This ecological buffer restores natural trophic regulation while curtailing pesticide input costs.",
+    "quantified_claims": [
+      {
+        "metric": "Non-Target Beneficial Insect Depression",
+        "change_range": "-60% to -80% mortality under intensive broad-spectrum pesticides",
+        "condition": "High pesticide application intensity"
+      },
+      {
+        "metric": "Natural Pest Suppression",
+        "change_range": "Maintains pest populations below economic threshold without yield loss",
+        "condition": "Perennial flowering borders + targeted integrated pest management"
+      }
+    ]
+  }
+]
